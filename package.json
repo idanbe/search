@@ -1,0 +1,14 @@
+{
+  "name": "search",
+  "version": "1.0.0",
+  "description": "search for files",
+  "main": "search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "idan beck",
+  "license": "ISC",
+  "dependencies": {
+    "readdir-enhanced": "^2.2.0"
+  }
+}
